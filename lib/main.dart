@@ -22,6 +22,7 @@ class _HomeState extends State<Home>
       appBar: AppBar(
         title: Text('Calculo do imc') ,
         centerTitle: true,
+        backgroundColor: Colors.green,
       ),//appBar
     );//title
   }
